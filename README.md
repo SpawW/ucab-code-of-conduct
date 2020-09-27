@@ -81,7 +81,7 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ### 4.6 Pode divulgar
 
-Incentivamos a divulgação de palestras, eventos comunitários e outros eventos que ajudem a disseminação do conhecimento e a colaboração. Sempre tendo o bom senso de respeitar a associação e seus parceiros.
+Incentivamos a divulgação de palestras, eventos comunitários e outros eventos que ajudem a disseminação do conhecimento e a colaboração. Sempre tendo o bom senso de respeitar a associação e seus parceiros e consultando os admins quando estes eventos não forem organizados pela UCAB ou diretamente pelo governo.
 
 ## 5. Como contribuir com este código de conduta?
 
